@@ -93,7 +93,7 @@ body {
         font-size: 70px;
     }
     .special-heading+p {
-        margin: -20px;
+        margin: -20px 0 0;
         font-size: 15px;
         letter-spacing: -1;
     }
