@@ -81,9 +81,9 @@ body {
     margin: 0;
 }
 
-.special-heading+p {
+.special-heading + p {
     margin: -30px 0 0;
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     color: #797979;
 }
@@ -94,6 +94,8 @@ body {
     }
     .special-heading+p {
         margin: -20px;
+        font-size: 15px;
+        letter-spacing: -1;
     }
 }
 
